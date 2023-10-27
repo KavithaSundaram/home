@@ -1,0 +1,10 @@
+.img-{
+    max-width: 100%;
+    padding: 20px;
+}
+body{
+    background-color: #cccc;
+}
+.gallery{
+    padding: 20px 0px;
+}
